@@ -1,33 +1,31 @@
-Layer 1 – Physical Layer
-Function
+
+## Layer 1 – Physical Layer
+
+### Function
+
 The Physical Layer is responsible for transmitting raw bits over a physical medium.
 
-Responsibilities
-Electrical signals
+### Responsibilities
 
-Physical cabling
+* Electrical signals
+* Physical cabling
+* Connectors
+* Data transmission
+* Signal conversion
 
-Connectors
+### Devices
 
-Data transmission
+* Hubs
+* Repeaters
+* Cables
+* Fiber optics
 
-Signal conversion
+### Protocols/Standards
 
-Devices
-Hubs
+* Ethernet Physical Standards
+* USB
+* DSL
 
-Repeaters
+### Data Unit
 
-Cables
-
-Fiber optics
-
-Protocols/Standards
-Ethernet Physical Standards
-
-USB
-
-DSL
-
-Data Unit
-Bits
+ * Bits

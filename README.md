@@ -38,6 +38,30 @@
 - Windows Networking Tools
 - Linux Networking Tools
 
+ Networking Fundamentals
+        ↓
+OSI Model
+        ↓
+TCP/IP
+        ↓
+IP Addressing
+        ↓
+Subnetting
+        ↓
+Switching
+        ↓
+Routing
+        ↓
+DNS/DHCP
+        ↓
+Network Security
+        ↓
+Wireshark
+        ↓
+Automation
+        ↓
+Cloud Networking
+
 ## Author
 
 CyberSecurityA1 (IamZer01-ai)
